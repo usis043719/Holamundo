@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="textview">TextView</string>
+    <string name="soy_david">soy David</string>
+</resources>
